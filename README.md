@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XezbethMultimedia
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning gbdk for Gameboy
 - 💞️ I’m looking to collaborate on Nothing right now
 - 📫 How to reach me 99296364@students.camre.ac.uk
 - 😄 Pronouns: They/Them
